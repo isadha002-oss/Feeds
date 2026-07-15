@@ -5,7 +5,7 @@
     const http = await import("http");
 
 
-    const PROXIES = ["http://budget-v6.whiteproxies.com:27020"];
+    const PROXIES = ["http://spjkufyo3c:bc9QQa_elQYmp63qg5@dc.decodo.com:10000"];
     const prod = false;
 
     // HTTP SERVER
