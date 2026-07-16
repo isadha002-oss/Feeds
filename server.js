@@ -136,7 +136,7 @@
                                                 url: PROXIES[session.proxyIdx]
                                             },
                                             hash: "#" + hash,
-                                            name: "[a]",
+                                            name: "[JasperFan]",
                                             stats: [0, 0, 0, 0, 0, 0, 0, 9],
                                             type: "follow",
                                             token: "follow-8fe6ca",
